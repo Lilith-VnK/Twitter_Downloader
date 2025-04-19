@@ -33,7 +33,7 @@ A Python script to download videos from Twitter/X with parallel downloads, cooki
 
 Basic syntax:
 ```bash
-python twitter_downloader.py [URLS] [OPTIONS]
+python aria2.py [URLS] [OPTIONS]
 
 Arguments:
   urls                    One or more Twitter post URLs
